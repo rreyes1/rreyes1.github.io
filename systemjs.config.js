@@ -42,6 +42,6 @@
                 defaultExtension: 'js'
             }
         },
-        baseUrl: '/rreyes1.github.io/'
+        baseURL: '/rreyes1.github.io/'
     });
 })(this);
