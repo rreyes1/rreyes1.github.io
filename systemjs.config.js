@@ -41,6 +41,7 @@
             'angular2-in-memory-web-api': {
                 defaultExtension: 'js'
             }
-        }
+        },
+        baseUrl: '/rreyes1.github.io/'
     });
 })(this);
